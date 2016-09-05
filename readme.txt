@@ -3,3 +3,4 @@ Git is free software.
 New here.
 Add new text.
 Git Git I want to learn.
+Git tracks changes.

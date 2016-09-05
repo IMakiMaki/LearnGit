@@ -4,3 +4,4 @@ New here.
 Add new text.
 Git Git I want to learn.
 Git tracks changes.
+Creating a new branch is quick AND simple.
